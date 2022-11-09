@@ -44,13 +44,23 @@ h1{
 
 .solid {border-style: solid;}
 
+.filmList{
+    display: flex;
+    justify-content: center;
+    
+        padding-left: 20em;
+        padding-right: 20em;
+}
+
 .listObject {
     display: flex;
     background-color: #D9D9D9;
     border-radius: 2em;
+    align-self: center;
 
     flex-direction: column;
     justify-content: center;
+    justify-self: center;
 }
 .solid {border-style: solid;
      width: 100;
