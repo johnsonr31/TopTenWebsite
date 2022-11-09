@@ -37,6 +37,7 @@ h1{
     background-color: black;
   }
 
+
   .nav-link{
     color: #FFFFFF;
   }
@@ -51,3 +52,17 @@ h1{
     flex-direction: column;
     justify-content: center;
 }
+.solid {border-style: solid;
+     width: 100;
+     height: 100;
+}
+
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    text-align: center;
+    margin-left: 500px;
+  }
+
