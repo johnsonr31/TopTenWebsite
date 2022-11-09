@@ -32,3 +32,11 @@ h1{
     width: 30%;
     height: 30%;
   }
+
+  .navbar{
+    background-color: black;
+  }
+
+  .nav-link{
+    color: #FFFFFF;
+  }
