@@ -26,7 +26,7 @@ h1{
     background: #eee;
     margin: auto;
     padding: 15px 10px;
-  }
+ }
   
   img {
     width: 30%;
@@ -47,10 +47,14 @@ h1{
 .listObject {
     display: flex;
     background-color: #D9D9D9;
-    border-radius: 2em;
+    border-radius: 3em;
+    align-items: center;
 
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
+    justify-self: center;
+    flex-wrap: wrap;
+
 }
 .solid {border-style: solid;
      width: 100;
@@ -64,5 +68,10 @@ h1{
     width: 180px;
     text-align: center;
     margin-left: 500px;
+  }
+
+
+  body {
+    
   }
 
