@@ -42,3 +42,12 @@ h1{
   }
 
 .solid {border-style: solid;}
+
+.listObject {
+    display: flex;
+    background-color: #D9D9D9;
+    border-radius: 2em;
+
+    flex-direction: column;
+    justify-content: center;
+}
