@@ -7,3 +7,14 @@ h1{
     display: flex;
 }
 
+.StoryText {
+    text-align: center;
+    font-family:monospace;
+    font-size: x-large;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* border: thick dashed black; */
+    background-color: rgba(255, 255, 255, 0.929);
+    box-shadow: 5px 5px 5px black;
+    color: black
+}
