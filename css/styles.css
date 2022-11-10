@@ -97,7 +97,7 @@ h1{
 
 p {
     font-family: 'Merriweather', serif;
-    font-size: 1.1em;
+    font-size: 1em;
   }
   
   h5 {
@@ -110,4 +110,8 @@ p {
   .nav-item {
   font-family: 'Merriweather', serif;
   font-size: 1.2em;
+}
+
+body {
+  background-color: #EEFBFF;
 }
