@@ -89,3 +89,7 @@ h1{
   flex-direction: row;
   justify-content: center;
 }
+
+.pond {
+    justify-content: center;
+}
