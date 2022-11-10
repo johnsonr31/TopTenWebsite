@@ -1,6 +1,10 @@
 h1{
     display: flex;
     justify-content: center;
+    font-family: 'Merriweather', serif;
+    font-size: 2.2em;
+    font-weight: 600;
+    padding: 1em;
 }
 .center{
     justify-content: center;
@@ -91,6 +95,19 @@ h1{
 }
 
 
-.p {
+p {
     font-family: 'Merriweather', serif;
+    font-size: 1.1em;
+  }
+  
+  h5 {
+    font-family: 'Merriweather', serif;
+    font-size: 1.3em;
+    font-weight: 600;
+    padding: 0.5em;
+  }
+  
+  .nav-item {
+  font-family: 'Merriweather', serif;
+  font-size: 1.2em;
 }
